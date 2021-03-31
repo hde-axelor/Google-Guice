@@ -1,5 +1,6 @@
 package googleGuice.type2;
 
+
 import com.google.inject.AbstractModule;
 
 public class CalculatorModule extends AbstractModule{
